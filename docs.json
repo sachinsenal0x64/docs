@@ -106,27 +106,27 @@
         "items": [
           {
             "label": "Customers",
-            "href": "https://mintlify.com/customers"
+            "href": "https://.com/customers"
           },
           {
             "label": "Enterprise",
-            "href": "https://mintlify.com/enterprise"
+            "href": "https://.com/enterprise"
           },
           {
             "label": "Request Preview",
-            "href": "https://mintlify.com/preview"
+            "href": "https://.com/preview"
           },
           {
             "label": "Integrations",
-            "href": "https://mintlify.com/docs/integrations/analytics/overview"
+            "href": "https://.com/docs/integrations/analytics/overview"
           },
           {
             "label": "Templates",
-            "href": "https://github.com/mintlify/themes"
+            "href": "https://.com/mintlify/themes"
           },
           {
             "label": "Wall of Love",
-            "href": "https://mintlify.com/love"
+            "href": "https://.com/love"
           }
         ]
       },
@@ -135,19 +135,19 @@
         "items": [
           {
             "label": "Careers",
-            "href": "https://mintlify.com/careers"
+            "href": "https://.com/careers"
           },
           {
             "label": "Blog",
-            "href": "https://mintlify.com/blog"
+            "href": "https://.com/blog"
           },
           {
             "label": "Public Roadmap",
-            "href": "https://feedback.mintlify.com/roadmap"
+            "href": "https://feedback..com/roadmap"
           },
           {
             "label": "Security",
-            "href": "https://mintlify.com/security/responsible-disclosure"
+            "href": "https://.com/security/responsible-disclosure"
           }
         ]
       },
@@ -156,11 +156,11 @@
         "items": [
           {
             "label": "Privacy Policy",
-            "href": "https://mintlify.com/legal/privacy"
+            "href": "https://.com/legal/privacy"
           },
           {
             "label": "Terms of Service",
-            "href": "https://mintlify.com/legal/terms"
+            "href": "https://.com/legal/terms"
           }
         ]
       }
