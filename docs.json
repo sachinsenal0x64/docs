@@ -9,7 +9,6 @@
   },
   "favicon": "/favicon.svg",
   "navigation": {
-
     "tabs": [
       {
         "tab": "API Reference",
@@ -30,12 +29,7 @@
             ]
           }
         ]
-      }
-    ],
-    "global": {
-   
-  },
-  
+      },
   "logo": {
     "light": "/logo/light.svg",
     "dark": "/logo/dark.svg",
