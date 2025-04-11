@@ -1,14 +1,15 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "maple",
-  "name": "Mintlify",
+  "theme": "mint",
+  "name": "Mint Starter Kit",
   "colors": {
-    "primary": "#0D9373",
-    "light": "#55D799",
-    "dark": "#0D9373"
+    "primary": "#16A34A",
+    "light": "#07C983",
+    "dark": "#15803D"
   },
+  "versions": ["en", "es"],
   "favicon": "/favicon.svg",
-   "navigation": {
+  "navigation": {
 
     "tabs": [
       {
@@ -77,88 +78,27 @@
     }
   },
   "logo": {
-    "light": "https://sachinsenal0x64.github.io/picx-images-hosting/303536006-facfe6ba-a36e-400d-ab49-d542854dc665.5c0q6vugue.webp",
-    "dark": "https://sachinsenal0x64.github.io/picx-images-hosting/303536006-facfe6ba-a36e-400d-ab49-d542854dc665.5c0q6vugue.webp",
-    "href": "https://mintlify.com"
+    "light": "/logo/light.svg",
+    "dark": "/logo/dark.svg"
+  },
+  "navbar": {
+    "links": [
+      {
+        "label": "Support",
+        "href": "mailto:hi@mintlify.com"
+      }
+    ],
+    "primary": {
+      "type": "button",
+      "label": "Dashboard",
+      "href": "https://dashboard.mintlify.com"
+    }
   },
   "footer": {
     "socials": {
       "x": "https://x.com/mintlify",
-      "linkedin": "https://www.linkedin.com/company/mintlify",
       "github": "https://github.com/mintlify",
-      "slack": "https://mintlify.com/community"
-    },
-    "links": [
-      {
-        "header": "Resources",
-        "items": [
-          {
-            "label": "Customers",
-            "href": "https://mintlify.com/customers"
-          },
-          {
-            "label": "Enterprise",
-            "href": "https://mintlify.com/enterprise"
-          },
-          {
-            "label": "Request Preview",
-            "href": "https://mintlify.com/preview"
-          },
-          {
-            "label": "Integrations",
-            "href": "https://mintlify.com/docs/integrations/analytics/overview"
-          },
-          {
-            "label": "Templates",
-            "href": "https://github.com/mintlify/themes"
-          },
-          {
-            "label": "Wall of Love",
-            "href": "https://mintlify.com/love"
-          }
-        ]
-      },
-      {
-        "header": "Company",
-        "items": [
-          {
-            "label": "Careers",
-            "href": "https://mintlify.com/careers"
-          },
-          {
-            "label": "Blog",
-            "href": "https://mintlify.com/blog"
-          },
-          {
-            "label": "Public Roadmap",
-            "href": "https://feedback.mintlify.com/roadmap"
-          },
-          {
-            "label": "Security",
-            "href": "https://mintlify.com/security/responsible-disclosure"
-          }
-        ]
-      },
-      {
-        "header": "Legal",
-        "items": [
-          {
-            "label": "Privacy Policy",
-            "href": "https://mintlify.com/legal/privacy"
-          },
-          {
-            "label": "Terms of Service",
-            "href": "https://mintlify.com/legal/terms"
-          }
-        ]
-      }
-    ]
-  },
-  "seo": {
-    "metatags": {
-      "og:site_name": "Mintlify",
-      "og:title": "Mintlify Docs",
-      "og:description": "Mintlify is a documentation platform that helps you create, manage, and share documentation for your projects."
+      "linkedin": "https://linkedin.com/company/mintlify"
     }
-}
+  }
 }
