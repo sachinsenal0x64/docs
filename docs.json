@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "maple",
+  "theme": "mint",
   "name": "Mintlify",
   "colors": {
     "primary": "#0D9373",
@@ -81,26 +81,6 @@
     "dark": "https://sachinsenal0x64.github.io/picx-images-hosting/303536006-facfe6ba-a36e-400d-ab49-d542854dc665.5c0q6vugue.webp",
     "href": "https://mintlify.com"
   },
-  "api": {
-    "mdx": {
-      "auth": {
-        "method": "bearer"
-      }
-    }
-  },
-  "navbar": {
-    "links": [
-      {
-        "label": "Community",
-        "href": "https://mintlify.com/community"
-      }
-    ],
-    "primary": {
-      "type": "button",
-      "label": "Get Started",
-      "href": "https://mintlify.com/start"
-    }
-  },
   "footer": {
     "socials": {
       "x": "https://x.com/mintlify",
@@ -173,17 +153,6 @@
         ]
       }
     ]
-  },
-  "integrations": {
-    "ga4": {
-      "measurementId": "G-RCYWHL7EQ7"
-    },
-    "koala": {
-      "publicApiKey": "pk_76a6caa274e800f3ceff0b2bc6b9b9d82ab8"
-    }
-  },
-  "contextual": {
-    "options": ["copy", "view", "chatgpt", "claude"]
   },
   "seo": {
     "metatags": {
