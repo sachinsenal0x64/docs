@@ -276,7 +276,7 @@
     ]
   },
   "logo": {
-    "light": "https://mintlify.s3.us-west-1.amazonaws.com/mintlify/logo/dark.svg",
+    "light": "/logo/light.svg",
     "dark": "/logo/dark.svg",
     "href": "https://mintlify.com"
   },
