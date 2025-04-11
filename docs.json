@@ -15,6 +15,31 @@
         "icon": "book",
         "description": "Set up your documentation",
         "groups": [
+            {
+            "group": "Getting Started",
+            "pages": [
+              "quickstart",
+              {
+                "group": "Editing",
+                "icon": "pen-paintbrush",
+                "pages": ["development", "web-editor"]
+              },
+              "settings/global",
+              {
+                "group": "Navigation",
+                "icon": "map",
+                "pages": [
+                  "navigation/overview",
+                  "navigation/pages",
+                  "navigation/divisions",
+                  "navigation/versions",
+                  "navigation/localization"
+                ]
+              },
+              "themes",
+              "migration"
+            ]
+          },
         
           {
             "group": "Writing Content",
