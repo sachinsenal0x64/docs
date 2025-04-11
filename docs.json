@@ -15,7 +15,7 @@
         "icon": "book",
         "description": "Set up your documentation",
         "groups": [
-            {
+          {
             "group": "Getting Started",
             "pages": [
               "quickstart",
@@ -40,7 +40,6 @@
               "migration"
             ]
           },
-        
           {
             "group": "Writing Content",
             "pages": [
